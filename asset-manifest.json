@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sphinx-Inventory-admin-app/static/css/main.85cf2fd8.css",
+    "main.js": "/Sphinx-Inventory-admin-app/static/js/main.f5aad73c.js",
+    "static/media/logo.png": "/Sphinx-Inventory-admin-app/static/media/logo.c94a8865ed3a0d835f13.png",
+    "static/media/logo.svg": "/Sphinx-Inventory-admin-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sphinx-Inventory-admin-app/index.html",
+    "main.85cf2fd8.css.map": "/Sphinx-Inventory-admin-app/static/css/main.85cf2fd8.css.map",
+    "main.f5aad73c.js.map": "/Sphinx-Inventory-admin-app/static/js/main.f5aad73c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85cf2fd8.css",
+    "static/js/main.f5aad73c.js"
+  ]
+}
