@@ -27,7 +27,7 @@ export default function Navbar() {
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
             <li className="nav-item">
-              <Link className="nav-link" to="/">
+              <Link className="nav-link" to="/Sphinx-Inventory-admin-app">
                 Home
               </Link>
             </li>

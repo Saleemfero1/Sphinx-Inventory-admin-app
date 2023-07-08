@@ -11,7 +11,7 @@ function App() {
     <div>
       <Navbar></Navbar>
       <Routes>
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/Sphinx-Inventory-admin-app" element={<Home />} />
         <Route exact path="/data" element={<Data />} />
         <Route exact path="/predata" element={<PredictedData />} />
         <Route exact path="/pastdata" element={<PastData />} />
